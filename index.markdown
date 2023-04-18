@@ -27,8 +27,8 @@ Web開発やMachine Learningの技術全般に興味があります。 <br>
 <br />
 
 ## 🏫 Education 
-京都大学大学院の知能情報学専攻のM1で、[黒橋 Lab](https://nlp.ist.i.kyoto-u.ac.jp/)にいます。<br>
-学部時代は他大学にて統計学やグラフ理論、解析学・線形代数などの数学を主に学びました。<br>
+京都大学大学院の知能情報学専攻のM1で、[黒橋 Lab](https://nlp.ist.i.kyoto-u.ac.jp/) にいます。<br>
+学部時代は他大学にて数学 (線形代数学・解析学・統計学・グラフ理論・etc..)を学びました。<br>
 
 <br />
 
@@ -37,7 +37,7 @@ Web開発やMachine Learningの技術全般に興味があります。 <br>
 <br />
 
 ## 🧳 Work Experience 
-総合商社にて半年ほどMLエンジニアのアルバイトをしています。<br>
+総合商社にて半年ほど、MLエンジニアとしてアルバイトをしています。<br>
 
 <br />
 
