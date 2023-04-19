@@ -73,7 +73,7 @@ Web開発やMachine Learningの技術全般に興味があります。 <br>
 
 <br />
 
-## 💌 Contact
+## 🤝 Contact
 - mail: shin.25166@icloud.com
 
 
