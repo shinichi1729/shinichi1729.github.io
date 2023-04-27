@@ -37,7 +37,8 @@ Web開発やMachine Learningの技術全般に興味があります。 <br>
 <br />
 
 ## 🧳 Work Experience 
-総合商社にて半年ほど、MLエンジニアとしてアルバイトをしています。<br>
+去年12月から現在まで、総合商社のMLエンジニアとしてアルバイトをしています。<br>
+<!-- LLMの適用やアルゴリズムの改善などにより、社内業務の自動化を行なっています。 <br> -->
 
 <br />
 
@@ -46,7 +47,10 @@ Web開発やMachine Learningの技術全般に興味があります。 <br>
 <br />
 
 ## 👑 Achievement | Certification
-- Atcoder:[shinichi1729](https://atcoder.jp/users/shinichi1729) ![my_atcoder_rating](https://badgen.org/img/atcoder/shinichi1729/rating/algorithm?style=flat)
+- Atcoder 🐳 (Blue) : [shinichi1729](https://atcoder.jp/users/shinichi1729)
+<!-- <a href="https://atcoder.jp/users/shinichi1729">
+    <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/shinichi1729/rating/algorithm?style=flat">
+</a> -->
 - TOEIC 840 (L430, R410)
 - 応用情報技術者 (2022取得)
 
@@ -63,7 +67,7 @@ Web開発やMachine Learningの技術全般に興味があります。 <br>
 | ----- | ----- |
 | Python | 競技プログラミングで2年ほど、インターンや研究でも使用しており得意です。 |
 | R | 1年ほどデータ解析に使用した経験があります。|
-| Ruby, JS |Ruby on Rails, Reactなどを触っていた遠い記憶があります。(約2ヶ月)| 
+| Ruby, JS |Ruby on Rails, Reactなどを触っていた僅かな記憶があります。(約2ヶ月)| 
 | C, C++| 読めますがほぼ書けません。 | 
 | Rust | 勉強中です。 | 
 
