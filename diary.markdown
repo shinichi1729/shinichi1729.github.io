@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diary
+title: shinichi1729 本郷槙一 日記 
 permalink: /diary/
 ---
 
