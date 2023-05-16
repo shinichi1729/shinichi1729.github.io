@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: shinichi1729 - 本郷槙一
+title: Top
 
 ---
 
