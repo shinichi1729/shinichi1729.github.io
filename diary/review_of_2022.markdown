@@ -3,7 +3,6 @@ layout: page
 title: 2022年の振り返り
 permalink: /diary/review_of_2022/
 ---
-「もう5月ですよ。」は禁止です、分かっています。
 
 ## 目次
 - [院試編](#inshi)
