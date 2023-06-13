@@ -76,14 +76,6 @@ NLPの研究室で、Machine Unlearningの研究をします。<br>
 
 <br />
 
---- 
 
-<br />
-
-## 🤝 Contact
-- mail: shin.25166@icloud.com
-
-
-<br />
 
 
