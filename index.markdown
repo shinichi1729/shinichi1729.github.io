@@ -49,9 +49,6 @@ NLPの研究室で、Machine Unlearningの研究をします。<br>
 
 ## 👑 Achievement | Certification
 - Atcoder 🐳 (Blue) : [shinichi1729](https://atcoder.jp/users/shinichi1729)
-<!-- <a href="https://atcoder.jp/users/shinichi1729">
-    <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/shinichi1729/rating/algorithm?style=flat">
-</a> -->
 - TOEIC 840 (L430, R410)
 - 応用情報技術者 (2022取得)
 

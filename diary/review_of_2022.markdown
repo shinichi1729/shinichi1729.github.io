@@ -2,6 +2,7 @@
 layout: page
 title: 2022年の振り返り
 permalink: /diary/review_of_2022/
+date: 2023/5/17
 ---
 
 ## 目次
