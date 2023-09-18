@@ -5,9 +5,11 @@ layout: home
 title: Shinichi Hongo | 本郷 槙一
 ---
 
-## これはなに
-本郷 槙一のホームページです。インターンの選考に必要だったため作りました。 <br>
-Rubyの[jekyll](https://jekyllrb.com/) を利用しています。読み方はわかりません。じぇきーるありがとう。<br>
+
+<br />
+
+## About Me
+I'm Shinichi Hongo, a Master of Science student in [Kurohashi Lab](https://nlp.ist.i.kyoto-u.ac.jp/) at [IST](https://www.ist.i.kyoto-u.ac.jp/en/) of Graduate School of Informatics, Kyoto University. 
 
 <br />
 
@@ -15,9 +17,9 @@ Rubyの[jekyll](https://jekyllrb.com/) を利用しています。読み方は�
 
 <br />
 
-## 🌱 About Me 
-主に競技プログラミングや数学、NLPの勉強・研究をしています。 <br>
-Web開発やMachine Learningの技術全般に興味があります。 <br>
+## Research Interests
+
+Natural Language Processing, Generative AI, Information Retrieval, Recommender System
 
 <br />
 
@@ -25,21 +27,13 @@ Web開発やMachine Learningの技術全般に興味があります。 <br>
 
 <br />
 
-## 🏫 Education 
-京都大学大学院の知能情報学専攻のM1で、[黒橋 Lab](https://nlp.ist.i.kyoto-u.ac.jp/) にいます。<br>
-NLPの研究室で、Machine Unlearningの研究をします。<br>
+## Education
+- **Master of Informatics, Intelligence Science and Technology** Apr 2023 -- now <br>
+  Kyoto Univeristy, Kyoto, Japan
+- **Bachelor of Science, Mathematics** Apr 2019 -- Mar 2023 <br>
+  Doshisha University, Kyoto, Japan
+- Doshisha Senior High School, Kyoto, Japan Apr 2016 -- Mar 2019 
 
-学部時代は他大学にて数学 (線形代数学・解析学・統計学・グラフ理論・etc..)を学びました。<br>統計学やデータ解析を中心に、推薦システムに関する卒業論文を書きました。<br>
-
-<br />
-
----
-
-<br />
-
-## 🧳 Work Experience 
-去年12月から現在まで、総合商社のMLエンジニアとしてアルバイトをしています。<br>
-<!-- LLMの適用やアルゴリズムの改善などにより、社内業務の自動化を行なっています。 <br> -->
 
 <br />
 
@@ -47,10 +41,29 @@ NLPの研究室で、Machine Unlearningの研究をします。<br>
 
 <br />
 
-## 👑 Achievement | Certification
-- Atcoder 🐳 (Blue) : [shinichi1729](https://atcoder.jp/users/shinichi1729)
+## Work Experiences
+
+- **ML engineer** Dec 2022 - now <br>
+  [**Marubeni**](https://www.marubeni.com/en/), Tokyo, Japan
+- **NLP engineer** Aug 2023 - now <br>
+  [**estie Inc.**](https://www.estie.jp/) , Tokyo, Japan
+- **Internship, NLP engineer** Sep 2023 <br>
+  [**Chura Data**](https://churadata.okinawa/), Okinawa, Japan
+- **Internship, (Google Hotel Ads Course)** Aug 2023 <br>
+  [**FORCIA Inc.**](https://www.forcia.com/), Tokyo, Japan
+- **1day Internship, (Git Challenge)** July 2023 <br>
+  [**MIXI**](https://mixi-recruit.snar.jp/jobboard/detail.aspx?id=IhXWImnIhox5L-Q51iCNlQ), Tokyo, Japan
+
+<br />
+
+---
+
+<br />
+
+## Skills
+- Atcoder (Blue) : [shinichi1729](https://atcoder.jp/users/shinichi1729)
 - TOEIC 840 (L430, R410)
-- 応用情報技術者 (2022取得)
+- Applied Information Technology Engineer Examination ([AP](https://www.ipa.go.jp/shiken/kubun/ap.html))
 
 <br />
 
@@ -58,16 +71,6 @@ NLPの研究室で、Machine Unlearningの研究をします。<br>
 
 <br />
 
-## 🖥 Skill
-
-
-| Language | Detail |
-| ----- | ----- |
-| Python | 競技プログラミングで2年ほど、インターンや研究でも使用しており得意です。 |
-| R | 1年ほどデータ解析に使用した経験があります。|
-| Ruby, JS |Ruby on Rails, Reactなどを触っていた僅かな記憶があります。(約2ヶ月)| 
-| C, C++| 読めますがほぼ書けません。 | 
-| Rust | 勉強中です。 | 
 
 <br />
 
